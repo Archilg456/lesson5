@@ -1,0 +1,85 @@
+.heder-wraper{
+    width: 100%;
+    padding: 25px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 999;
+}
+body {
+padding-top: 66px;
+}
+.navi {
+    display: inline-block;
+    
+}
+.li-iteam {
+    display: inline-block;
+    padding-left: 22px;
+}
+.logo-img {
+    width: 38px;
+    height: 15px;
+    margin-right: 92px;
+}
+.span {
+    color: #343638;
+}
+.login-img {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    margin-left: 40px;
+    vertical-align: middle;
+}
+.section1 {
+width: 1160px;
+margin-top: 25px;
+margin-left: 140px ;
+display: inline-block;
+}
+.hed-tex {
+    color: #202124;
+    font-size: 24px;
+    margin-bottom: 40px;
+}
+.box-1 {
+    background: #FFFFFF;
+    width: 360px;
+    height: 350px;
+    display: inline-block;
+    vertical-align: top;
+}
+.box-2 {
+    background: #FFFFFF;
+    width: 360px;
+    height: 350px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px 40px;
+}
+.box1img {
+    position: absolute;
+    display: inline-block;
+}
+.text-relativ {
+    color: #FFFFFF;
+    position: relative;
+    margin-left: 40px;
+    padding-top: 28px;
+}
+.down-block {
+    color: #A6ADB4;
+    width: 280px;
+    display: inline-block;
+    margin: 170px 40px 28px 40px;
+}   
+.time {
+    margin-left: 40px;
+    vertical-align: top;
+}
+.time2 {
+    display: inline-block;
+    vertical-align: top;
+    color: #A6ADB4;
+}
