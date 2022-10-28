@@ -83,3 +83,21 @@ display: inline-block;
     vertical-align: top;
     color: #A6ADB4;
 }
+.div-box {
+    width: 760px;
+    height: 960px;
+    margin-left: 140px ;
+    display: inline-block;
+    /* background: goldenrod; */
+}
+.imgabs {
+    position: absolute;
+    display: inline-block;
+}
+.textrela {
+    color: #FFFFFF;
+    position: relative;
+    margin-top: 194px;
+    margin-left: 308px;
+}
+
