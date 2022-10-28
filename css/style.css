@@ -1,5 +1,6 @@
 .heder-wraper{
     width: 100%;
+    margin-left: 150px;
     padding: 25px;
     position: fixed;
     top: 0;
@@ -11,7 +12,6 @@ padding-top: 66px;
 }
 .navi {
     display: inline-block;
-    
 }
 .li-iteam {
     display: inline-block;
@@ -20,7 +20,7 @@ padding-top: 66px;
 .logo-img {
     width: 38px;
     height: 15px;
-    margin-right: 92px;
+    margin-left: 20px;
 }
 .span {
     color: #343638;
@@ -34,9 +34,7 @@ padding-top: 66px;
 }
 .section1 {
 width: 1160px;
-margin-top: 25px;
-margin-left: 140px ;
-display: inline-block;
+margin: auto;
 }
 .hed-tex {
     color: #202124;
@@ -85,11 +83,9 @@ display: inline-block;
 }
 .div-box {
     width: 760px;
-    height: 960px;
-    margin-left: 140px ;
+    /* height: 960px; */
     display: inline-block;
     vertical-align: middle;
-    /* background: goldenrod; */
 }
 .imgabs {
     position: absolute;
@@ -100,6 +96,9 @@ display: inline-block;
     position: relative;
     margin-top: 194px;
     margin-left: 308px;
+}
+.fores1 {
+margin-top: 300px;
 }
 .rigth-block {
     width: 360px;
