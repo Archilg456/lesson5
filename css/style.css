@@ -88,6 +88,7 @@ display: inline-block;
     height: 960px;
     margin-left: 140px ;
     display: inline-block;
+    vertical-align: middle;
     /* background: goldenrod; */
 }
 .imgabs {
@@ -100,4 +101,12 @@ display: inline-block;
     margin-top: 194px;
     margin-left: 308px;
 }
-
+.rigth-block {
+    width: 360px;
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 40px;
+}
+.img-1 {
+    margin: 102px 0px;
+}
