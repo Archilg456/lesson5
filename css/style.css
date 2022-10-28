@@ -9,6 +9,7 @@
 }
 body {
 padding-top: 66px;
+background: #F6F8F9;
 }
 .navi {
     display: inline-block;
@@ -20,7 +21,6 @@ padding-top: 66px;
 .logo-img {
     width: 38px;
     height: 15px;
-    margin-left: 20px;
 }
 .span {
     color: #343638;
